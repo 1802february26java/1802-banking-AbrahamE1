@@ -1,0 +1,114 @@
+2018-03-09 16:49:16 TRACE Main:12 - MainMenu Action
+2018-03-09 16:50:35 TRACE UserImpl:25 - Get All Users
+2018-03-09 16:51:31 TRACE Main:12 - MainMenu Action
+2018-03-09 16:51:54 TRACE UserImpl:25 - Get All Users
+2018-03-09 16:54:52 TRACE Main:12 - MainMenu Action
+2018-03-09 16:55:07 TRACE UserImpl:25 - Get All Users
+2018-03-09 16:55:56 TRACE Main:12 - MainMenu Action
+2018-03-09 16:56:04 TRACE UserImpl:25 - Get All Users
+2018-03-09 17:33:51 TRACE Main:12 - MainMenu Action
+2018-03-10 11:19:52 TRACE Main:12 - MainMenu Action
+2018-03-10 11:20:06 TRACE UserImpl:25 - Get All Users
+2018-03-10 11:23:01 TRACE Main:12 - MainMenu Action
+2018-03-10 11:23:09 TRACE UserImpl:25 - Get All Users
+2018-03-10 11:25:26 TRACE Main:12 - MainMenu Action
+2018-03-10 11:25:38 TRACE UserImpl:25 - Get All Users
+2018-03-10 11:26:43 TRACE Main:12 - MainMenu Action
+2018-03-10 11:26:54 TRACE UserImpl:25 - Get All Users
+2018-03-10 11:39:46 TRACE Main:12 - MainMenu Action
+2018-03-10 11:39:56 TRACE UserImpl:25 - Get All Users
+2018-03-10 11:41:15 TRACE Main:12 - MainMenu Action
+2018-03-10 11:41:23 TRACE UserImpl:25 - Get All Users
+2018-03-10 11:42:52 TRACE Main:12 - MainMenu Action
+2018-03-10 11:43:00 TRACE UserImpl:25 - Get All Users
+2018-03-10 11:43:59 TRACE Main:12 - MainMenu Action
+2018-03-10 11:44:08 TRACE UserImpl:25 - Get All Users
+2018-03-10 11:46:17 TRACE Main:12 - MainMenu Action
+2018-03-10 11:46:26 TRACE UserImpl:25 - Get All Users
+2018-03-10 11:55:21 TRACE Main:12 - MainMenu Action
+2018-03-10 12:33:30 TRACE Main:12 - MainMenu Action
+2018-03-10 12:34:20 TRACE UserImpl:25 - Get All Users
+2018-03-10 12:39:51 TRACE Main:12 - MainMenu Action
+2018-03-10 12:40:04 TRACE UserImpl:25 - Get All Users
+2018-03-10 12:44:11 TRACE Main:12 - MainMenu Action
+2018-03-10 12:44:38 TRACE UserImpl:25 - Get All Users
+2018-03-10 12:46:59 TRACE Main:12 - MainMenu Action
+2018-03-10 12:47:13 TRACE UserImpl:25 - Get All Users
+2018-03-10 12:49:20 TRACE Main:12 - MainMenu Action
+2018-03-10 13:06:39 TRACE UserImpl:25 - Get All Users
+2018-03-10 13:08:50 TRACE Main:12 - MainMenu Action
+2018-03-10 13:09:05 TRACE UserImpl:25 - Get All Users
+2018-03-10 13:17:09 TRACE Test:17 - Testing selectAll celebrities.
+2018-03-10 13:26:17 TRACE Test:21 - Testing selectAll Users
+2018-03-10 13:26:39 TRACE Test:21 - Testing selectAll Users
+2018-03-10 13:27:13 TRACE Main:12 - MainMenu Action
+2018-03-10 13:27:22 TRACE UserImpl:25 - Get All Users
+2018-03-10 13:28:02 TRACE Test:21 - Testing selectAll Users
+2018-03-10 13:28:49 TRACE Test:21 - Testing selectAll Users
+2018-03-10 13:40:44 TRACE Test:21 - Testing selectAll Users
+2018-03-10 16:53:32 TRACE Main:12 - MainMenu Action
+2018-03-10 16:53:41 TRACE UserImpl:25 - Get All Users
+2018-03-10 17:04:55 TRACE Main:12 - MainMenu Action
+2018-03-10 17:10:07 TRACE Main:12 - MainMenu Action
+2018-03-10 17:10:19 TRACE UserImpl:25 - Get All Users
+2018-03-10 17:13:58 TRACE Main:12 - MainMenu Action
+2018-03-10 17:14:11 TRACE UserImpl:25 - Get All Users
+2018-03-10 17:36:29 TRACE Main:12 - MainMenu Action
+2018-03-10 17:36:37 TRACE UserImpl:25 - Get All Users
+2018-03-10 17:37:01 TRACE Main:12 - MainMenu Action
+2018-03-10 17:37:07 TRACE UserImpl:25 - Get All Users
+2018-03-12 12:50:50 TRACE Main:12 - MainMenu Action
+2018-03-12 12:51:10 TRACE UserImpl:25 - Get All Users
+2018-03-12 13:00:04 TRACE Main:12 - MainMenu Action
+2018-03-12 13:00:14 TRACE UserImpl:25 - Get All Users
+2018-03-12 13:00:46 TRACE Main:12 - MainMenu Action
+2018-03-12 13:00:53 TRACE UserImpl:25 - Get All Users
+2018-03-12 13:01:08 TRACE Main:12 - MainMenu Action
+2018-03-12 13:01:19 TRACE UserImpl:25 - Get All Users
+2018-03-12 13:02:00 TRACE Main:12 - MainMenu Action
+2018-03-12 13:02:25 TRACE UserImpl:25 - Get All Users
+2018-03-12 13:02:30 TRACE Main:12 - MainMenu Action
+2018-03-12 13:03:13 TRACE UserImpl:25 - Get All Users
+2018-03-12 13:32:09 TRACE Main:12 - MainMenu Action
+2018-03-12 13:32:24 TRACE UserImpl:25 - Get All Users
+2018-03-12 13:32:49 TRACE Main:12 - MainMenu Action
+2018-03-12 13:33:01 TRACE Main:12 - MainMenu Action
+2018-03-12 13:33:07 TRACE UserImpl:25 - Get All Users
+2018-03-12 13:33:08 TRACE DataControl:16 - Check Duplicates
+2018-03-12 13:36:12 TRACE Main:12 - MainMenu Action
+2018-03-12 13:36:29 TRACE UserImpl:25 - Get All Users
+2018-03-12 13:36:30 TRACE UserImpl:249 - TotalUsers
+2018-03-12 13:36:30 TRACE UserImpl:270 - Admin
+2018-03-12 13:36:30 TRACE UserImpl:294 - Admin Pass
+2018-03-12 13:37:37 TRACE Main:12 - MainMenu Action
+2018-03-12 13:37:42 TRACE UserImpl:25 - Get All Users
+2018-03-12 13:37:43 TRACE UserImpl:249 - TotalUsers
+2018-03-12 13:37:43 TRACE UserImpl:270 - Admin
+2018-03-12 13:38:01 TRACE Main:12 - MainMenu Action
+2018-03-12 13:38:08 TRACE UserImpl:25 - Get All Users
+2018-03-12 13:38:08 TRACE UserImpl:249 - TotalUsers
+2018-03-12 13:38:08 TRACE UserImpl:270 - Admin
+2018-03-12 13:38:54 TRACE Main:12 - MainMenu Action
+2018-03-12 13:43:36 TRACE Main:12 - MainMenu Action
+2018-03-12 13:43:44 TRACE UserImpl:25 - Get All Users
+2018-03-12 13:43:44 TRACE UserImpl:249 - TotalUsers
+2018-03-12 13:43:44 TRACE UserImpl:270 - Admin
+2018-03-12 13:43:44 TRACE UserImpl:294 - Admin Pass
+2018-03-12 13:55:07 TRACE Main:12 - MainMenu Action
+2018-03-12 17:48:30 TRACE Main:12 - MainMenu Action
+2018-03-12 17:48:43 TRACE UserImpl:25 - Get All Users
+2018-03-12 17:48:44 TRACE UserImpl:249 - TotalUsers
+2018-03-12 17:48:44 TRACE UserImpl:270 - Admin
+2018-03-12 17:48:44 TRACE UserImpl:294 - Admin Pass
+2018-03-12 17:49:01 TRACE UserImpl:249 - TotalUsers
+2018-03-12 17:49:01 TRACE UserImpl:294 - Admin Pass
+2018-03-12 17:49:19 TRACE Main:12 - MainMenu Action
+2018-03-12 17:49:30 TRACE UserImpl:25 - Get All Users
+2018-03-12 17:49:31 TRACE UserImpl:249 - TotalUsers
+2018-03-12 17:49:31 TRACE UserImpl:270 - Admin
+2018-03-12 17:49:31 TRACE UserImpl:294 - Admin Pass
+2018-03-12 17:49:53 TRACE UserImpl:249 - TotalUsers
+2018-03-12 17:49:53 TRACE UserImpl:294 - Admin Pass
+2018-03-12 17:50:05 TRACE UserImpl:249 - TotalUsers
+2018-03-12 17:50:05 TRACE UserImpl:294 - Admin Pass
+2018-03-12 17:50:13 TRACE Main:12 - MainMenu Action

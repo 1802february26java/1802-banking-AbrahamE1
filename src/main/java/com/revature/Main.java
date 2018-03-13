@@ -1,13 +1,15 @@
 package com.revature;
 
-/** 
- * Create an instance of your controller and launch your application.
- * 
- * Try not to have any logic at all on this class.
- */
+import org.apache.log4j.Logger;
+
+import com.revature.repository.*;
+
+
 public class Main {
-
+	private static Logger logger = Logger.getLogger(Main.class.getName());
+	
 	public static void main(String[] args) {
-
+		logger.trace("MainMenu Action");
+		MainMenu.Banking ();
 	}
 }
